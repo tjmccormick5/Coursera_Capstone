@@ -1,0 +1,4 @@
+##This is a markdown file
+
+
+Markdown files are saved as .Rmd in R Studio, not .md
